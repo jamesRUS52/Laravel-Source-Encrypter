@@ -24,7 +24,7 @@ At the first, You have to [install phpBolt](https://phpbolt.com/download-phpbolt
 ### Step 2
 Require the package with composer using the following command:
 ```bash
-composer require --dev sbamtr/laravel-source-encrypter
+composer require --dev james.rus52/laravel-source-encrypter
 ```
 ### Step 3
 #### For Laravel
